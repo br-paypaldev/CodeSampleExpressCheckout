@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeSample-ExpressCheckout/Default.aspx.cs">
+    <Files>
+      <File FileName="CodeSample-ExpressCheckout/Model/CodeSampleExpressCheckout/Checkout.cs" Line="7" Column="20" />
+      <File FileName="CodeSample-ExpressCheckout/Model/CodeSampleExpressCheckout/Product.cs" Line="1" Column="1" />
+      <File FileName="CodeSample-ExpressCheckout/Model/CodeSampleExpressCheckout/ProductDataAccess.cs" Line="1" Column="1" />
+      <File FileName="CodeSample-ExpressCheckout/Model/CodeSampleExpressCheckout/Cart.cs" Line="1" Column="1" />
+      <File FileName="CodeSample-ExpressCheckout/Default.aspx.cs" Line="10" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="CodeSample-ExpressCheckout" expanded="True">
+            <Node name="Model" expanded="True" />
+            <Node name="Default.aspx" expanded="True">
+              <Node name="Default.aspx.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
