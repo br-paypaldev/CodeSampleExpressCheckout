@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\CodeSampleExpressCheckout\CodeSampleExpressCheckout\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\CodeSampleExpressCheckout\CodeSampleExpressCheckout\bin\CodeSampleExpressCheckout.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\CodeSampleExpressCheckout\CodeSampleExpressCheckout\bin\CodeSampleExpressCheckout.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\CodeSampleExpressCheckout\CodeSampleExpressCheckout\obj\Debug\CodeSampleExpressCheckout.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\CodeSampleExpressCheckout\CodeSampleExpressCheckout\obj\Debug\CodeSampleExpressCheckout.pdb
